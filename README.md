@@ -1,7 +1,7 @@
 # Intro-to-Neural-Networks-and-Machine-Learning
 
 ## What is this repo?
-In 2021, I took a course on Neural Networks and Machine Learning ([PHYSICS 3G03, McMaster University](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=41&coid=222058)). This repo contains my assignments that I coded throughout this course. The first half of the course emphasized implementing ML algorithms from scratch using Numpy, and the second half focused on implementing ML algorithms using state of the art packages such as Keras TensorFlow and PyTorch.
+This repo contains the assignments that I coded throughout the Intro to Neural Networks and Machine Learning ([PHYSICS 3G03, McMaster University](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=41&coid=222058)) course. The first half of the course emphasized implementing ML algorithms from scratch using Numpy, and the second half focused on implementing ML algorithms using state of the art frameworks such as Keras and PyTorch.
 
 ## Areas of Focus 
 I had a great time during this course and learned the following topics:
